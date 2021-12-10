@@ -1,0 +1,24 @@
+
+/* Class = "UIBarButtonItem"; title = "Geri dön"; ObjectID = "AZ6-2d-xm9"; */
+"AZ6-2d-xm9.title" = "Geri dön";
+
+/* Class = "UINavigationItem"; title = "Hüküm ve koşullar"; ObjectID = "Cjc-mc-EMQ"; */
+"Cjc-mc-EMQ.title" = "Hüküm ve koşullar";
+
+/* Class = "UILabel"; text = "Social Network ID"; ObjectID = "M06-Hj-yiR"; */
+"M06-Hj-yiR.text" = "Social Network ID";
+
+/* Class = "UIButton"; configuration.title = "Hüküm ve koşullar"; ObjectID = "UmW-kZ-QTb"; */
+"UmW-kZ-QTb.configuration.title" = "Hüküm ve koşullar";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "UmW-kZ-QTb"; */
+"UmW-kZ-QTb.normalTitle" = "Button";
+
+/* Class = "UITextView"; text = "Henüz karar aşamasında. Tüm hakları saklıdır..."; ObjectID = "YzY-Jd-zyD"; */
+"YzY-Jd-zyD.text" = "Henüz karar aşamasında. Tüm hakları saklıdır...";
+
+/* Class = "UILabel"; text = "Social Network ID Hizmetleri Hüküm ve Koşulları"; ObjectID = "g2b-7K-olR"; */
+"g2b-7K-olR.text" = "Social Network ID Hizmetleri Hüküm ve Koşulları";
+
+/* Class = "UITextView"; text = "Biz Social Network ID hiç bir şekilde kişilerinizi yedeklemiyoruz.Giriş yapmadan önce hüküm ve koşullarımızı inceleye bilirsiniz. Güvenilir ve gerçek bir kişi olduğunuzu gösterin. Saygılarımla Şenol Şentürk"; ObjectID = "viX-u4-Xmj"; */
+"viX-u4-Xmj.text" = "Biz Social Network ID hiç bir şekilde kişilerinizi yedeklemiyoruz.Giriş yapmadan önce hüküm ve koşullarımızı inceleye bilirsiniz. Güvenilir ve gerçek bir kişi olduğunuzu gösterin. Saygılarımla Şenol Şentürk";
